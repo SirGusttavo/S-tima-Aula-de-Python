@@ -1,1 +1,1 @@
-# S-tima-Aula-de-Python
+# Sétima-Aula-de-Python
